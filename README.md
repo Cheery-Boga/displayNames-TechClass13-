@@ -1,0 +1,1 @@
+This takes in two text values and then the js script prints out a greeting using those values.
